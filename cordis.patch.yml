@@ -1,0 +1,4 @@
+# luna-presence-check bundle 层：装入 profile 时自动应用（package.json dsh.bundle.patch）。
+- insert:
+    - id: luna-presence-check
+      name: 'luna-presence-check'

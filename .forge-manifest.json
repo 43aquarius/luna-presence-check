@@ -1,0 +1,9 @@
+{
+  "name": "luna-presence-check",
+  "category": "skill",
+  "zhDesc": "检测主人的活跃度并适时发起互动。",
+  "enDesc": "Detect owner inactivity and gently re-engage without being pushy.",
+  "motivation": "光知道主人还在，这条鱼就够安心了（近期进化复盘）",
+  "skillName": "presence-check",
+  "builtAt": "2026-10-27T11:10:44.000Z"
+}
